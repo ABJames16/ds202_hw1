@@ -1,0 +1,18 @@
+---
+title: "partner.Rmd"
+author: "Keven Lin"
+date: "9/3/2021"
+output: html_document
+---
+
+**github: KevenLin2833**
+
+**Last Commit: Lab 1 (commit up hw1) Commit ID: d527eff562d2e4944cc25880b33d8945adf3d018**
+
+**This file will replace the current owners Hw1_Adam_Banwell.Rmd**
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
